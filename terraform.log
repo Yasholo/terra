@@ -1,0 +1,1158 @@
+
+[0m[1mInitializing the backend...[0m
+[0m[1mInitializing modules...[0m
+[31m[0mTerraform encountered problems during initialisation, including problems
+with the configuration, described below.
+
+The Terraform configuration must be valid before initialization so that
+Terraform can determine which modules and providers need to be installed.[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mArgument or block definition required[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 1:
+[31m│[0m [0m   1: [4mroot[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mAn argument or block definition is required here. To set an argument, use
+[31m│[0m [0mthe equals sign "=" to introduce the argument value.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 2:
+[31m│[0m [0m   2: [4m├[0m── main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 2:
+[31m│[0m [0m   2: ├[4m─[0m─ main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 2:
+[31m│[0m [0m   2: ├─[4m─[0m main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 3:
+[31m│[0m [0m   3: [4m├[0m── outputs.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 3:
+[31m│[0m [0m   3: ├[4m─[0m─ outputs.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 3:
+[31m│[0m [0m   3: ├─[4m─[0m outputs.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 4:
+[31m│[0m [0m   4: [4m├[0m── variables.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 4:
+[31m│[0m [0m   4: ├[4m─[0m─ variables.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 4:
+[31m│[0m [0m   4: ├─[4m─[0m variables.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 5:
+[31m│[0m [0m   5: [4m├[0m── modules[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 5:
+[31m│[0m [0m   5: ├[4m─[0m─ modules[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 5:
+[31m│[0m [0m   5: ├─[4m─[0m modules[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 6:
+[31m│[0m [0m   6: [4m│[0m   ├── web[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 6:
+[31m│[0m [0m   6: │   [4m├[0m── web[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 6:
+[31m│[0m [0m   6: │   ├[4m─[0m─ web[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 6:
+[31m│[0m [0m   6: │   ├─[4m─[0m web[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 7:
+[31m│[0m [0m   7: [4m│[0m   │   └── main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 7:
+[31m│[0m [0m   7: │   [4m│[0m   └── main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 7:
+[31m│[0m [0m   7: │   │   [4m└[0m── main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 7:
+[31m│[0m [0m   7: │   │   └[4m─[0m─ main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 7:
+[31m│[0m [0m   7: │   │   └─[4m─[0m main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 8:
+[31m│[0m [0m   8: [4m│[0m   ├── application[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 8:
+[31m│[0m [0m   8: │   [4m├[0m── application[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 8:
+[31m│[0m [0m   8: │   ├[4m─[0m─ application[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 8:
+[31m│[0m [0m   8: │   ├─[4m─[0m application[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 9:
+[31m│[0m [0m   9: [4m│[0m   │   └── main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 9:
+[31m│[0m [0m   9: │   [4m│[0m   └── main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 9:
+[31m│[0m [0m   9: │   │   [4m└[0m── main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 9:
+[31m│[0m [0m   9: │   │   └[4m─[0m─ main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 9:
+[31m│[0m [0m   9: │   │   └─[4m─[0m main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 10:
+[31m│[0m [0m  10: [4m│[0m   ├── monitoring[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 10:
+[31m│[0m [0m  10: │   [4m├[0m── monitoring[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 10:
+[31m│[0m [0m  10: │   ├[4m─[0m─ monitoring[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 10:
+[31m│[0m [0m  10: │   ├─[4m─[0m monitoring[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 11:
+[31m│[0m [0m  11: [4m│[0m       └── main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 11:
+[31m│[0m [0m  11: │       [4m└[0m── main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 11:
+[31m│[0m [0m  11: │       └[4m─[0m─ main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+[31m[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mInvalid character[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on directory_structure.tf line 11:
+[31m│[0m [0m  11: │       └─[4m─[0m main.tf[0m
+[31m│[0m [0m
+[31m│[0m [0mThis character is not used within the language.
+[31m╵[0m[0m
+[0m[0m
+
+[0m[1mInitializing the backend...[0m
+[0m[1mInitializing modules...[0m
+
+[0m[1mInitializing provider plugins...[0m
+- Reusing previous version of hashicorp/aws from the dependency lock file
+- Using previously-installed hashicorp/aws v5.50.0
+
+[0m[1m[32mTerraform has been successfully initialized![0m[32m[0m
+[0m[32m
+You may now begin working with Terraform. Try running "terraform plan" to see
+any changes that are required for your infrastructure. All Terraform commands
+should now work.
+
+If you ever set or change modules or backend configuration for Terraform,
+rerun this command to reinitialize your working directory. If you forget, other
+commands will detect it and remind you to do so if necessary.[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "public_subnet1_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_db_subnet2_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "vpc_cidr_block" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "vpc_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "public_subnet1_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_db_subnet1_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "nat_gw_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_subnet1_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_subnet2_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "az_2" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "igw_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "public_subnet2_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "public_subnet2_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_subnet1_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_subnet2_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_db_subnet1_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_db_subnet2_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/web/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "az_1" is required, but no definition was found.
+[31m╵[0m[0m
+
+[0m[1mInitializing the backend...[0m
+[0m[1mInitializing modules...[0m
+
+[0m[1mInitializing provider plugins...[0m
+- Reusing previous version of hashicorp/aws from the dependency lock file
+- Using previously-installed hashicorp/aws v5.50.0
+
+[0m[1m[32mTerraform has been successfully initialized![0m[32m[0m
+[0m[32m
+You may now begin working with Terraform. Try running "terraform plan" to see
+any changes that are required for your infrastructure. All Terraform commands
+should now work.
+
+If you ever set or change modules or backend configuration for Terraform,
+rerun this command to reinitialize your working directory. If you forget, other
+commands will detect it and remind you to do so if necessary.[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 42, in module "monitoring":
+[31m│[0m [0m  42: module "monitoring" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "region_name" is required, but no definition was found.
+[31m╵[0m[0m
+
+[0m[1mInitializing the backend...[0m
+[0m[1mInitializing modules...[0m
+
+[0m[1mInitializing provider plugins...[0m
+- Reusing previous version of hashicorp/aws from the dependency lock file
+- Using previously-installed hashicorp/aws v5.50.0
+
+[0m[1m[32mTerraform has been successfully initialized![0m[32m[0m
+[0m[32m
+You may now begin working with Terraform. Try running "terraform plan" to see
+any changes that are required for your infrastructure. All Terraform commands
+should now work.
+
+If you ever set or change modules or backend configuration for Terraform,
+rerun this command to reinitialize your working directory. If you forget, other
+commands will detect it and remind you to do so if necessary.[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "nat_gw_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "vpc_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "public_subnet1_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "public_subnet2_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_subnet1_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_subnet1_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_subnet2_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "vpc_cidr_block" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "public_subnet1_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "public_subnet2_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_subnet2_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_db_subnet2_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_db_subnet2_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_db_subnet1_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "az_2" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "igw_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_db_subnet1_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on modules/application/main.tf line 1, in module "network":
+[31m│[0m [0m   1: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "az_1" is required, but no definition was found.
+[31m╵[0m[0m
+
+[0m[1mInitializing the backend...[0m
+[0m[1mInitializing modules...[0m
+
+[0m[1mInitializing provider plugins...[0m
+- Reusing previous version of hashicorp/aws from the dependency lock file
+- Using previously-installed hashicorp/aws v5.50.0
+
+[0m[1m[32mTerraform has been successfully initialized![0m[32m[0m
+[0m[32m
+You may now begin working with Terraform. Try running "terraform plan" to see
+any changes that are required for your infrastructure. All Terraform commands
+should now work.
+
+If you ever set or change modules or backend configuration for Terraform,
+rerun this command to reinitialize your working directory. If you forget, other
+commands will detect it and remind you to do so if necessary.[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 19, in module "web":
+[31m│[0m [0m  19: module "web" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "alb_sg_web_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 19, in module "web":
+[31m│[0m [0m  19: module "web" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "ami_id" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 19, in module "web":
+[31m│[0m [0m  19: module "web" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "instance_type" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 19, in module "web":
+[31m│[0m [0m  19: module "web" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "asg_sg_web_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 19, in module "web":
+[31m│[0m [0m  19: module "web" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "web_tg_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 19, in module "web":
+[31m│[0m [0m  19: module "web" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "key_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 19, in module "web":
+[31m│[0m [0m  19: module "web" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "web_instance_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 19, in module "web":
+[31m│[0m [0m  19: module "web" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "alb_web" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 19, in module "web":
+[31m│[0m [0m  19: module "web" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "asg_web_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 19, in module "web":
+[31m│[0m [0m  19: module "web" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "network_module_outputs" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mUnsupported argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 21, in module "web":
+[31m│[0m [0m  21:   [4msubnet_ids[0m = module.network.public_subnet_ids[0m
+[31m│[0m [0m
+[31m│[0m [0mAn argument named "subnet_ids" is not expected here.
+[31m╵[0m[0m
+
+[0m[1mInitializing the backend...[0m
+[0m[1mInitializing modules...[0m
+
+[0m[1mInitializing provider plugins...[0m
+- Reusing previous version of hashicorp/aws from the dependency lock file
+- Using previously-installed hashicorp/aws v5.50.0
+
+[0m[1m[32mTerraform has been successfully initialized![0m[32m[0m
+[0m[32m
+You may now begin working with Terraform. Try running "terraform plan" to see
+any changes that are required for your infrastructure. All Terraform commands
+should now work.
+
+If you ever set or change modules or backend configuration for Terraform,
+rerun this command to reinitialize your working directory. If you forget, other
+commands will detect it and remind you to do so if necessary.[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 37, in module "application":
+[31m│[0m [0m  37: module "application" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "asg_sg_app_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 37, in module "application":
+[31m│[0m [0m  37: module "application" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "ami_id" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 37, in module "application":
+[31m│[0m [0m  37: module "application" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "instance_type" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 37, in module "application":
+[31m│[0m [0m  37: module "application" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "key_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 37, in module "application":
+[31m│[0m [0m  37: module "application" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "alb_app" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 37, in module "application":
+[31m│[0m [0m  37: module "application" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "alb_sg_app_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 37, in module "application":
+[31m│[0m [0m  37: module "application" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "app_instance_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 37, in module "application":
+[31m│[0m [0m  37: module "application" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "app_tg_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 37, in module "application":
+[31m│[0m [0m  37: module "application" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "network_module_outputs" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mUnsupported argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 39, in module "application":
+[31m│[0m [0m  39:   [4msubnet_ids[0m = module.network.private_subnet_ids[0m
+[31m│[0m [0m
+[31m│[0m [0mAn argument named "subnet_ids" is not expected here.
+[31m╵[0m[0m
+
+[0m[1mInitializing the backend...[0m
+[0m[1mInitializing modules...[0m
+
+[0m[1mInitializing provider plugins...[0m
+- Reusing previous version of hashicorp/aws from the dependency lock file
+- Using previously-installed hashicorp/aws v5.50.0
+
+[0m[1m[32mTerraform has been successfully initialized![0m[32m[0m
+[0m[32m
+You may now begin working with Terraform. Try running "terraform plan" to see
+any changes that are required for your infrastructure. All Terraform commands
+should now work.
+
+If you ever set or change modules or backend configuration for Terraform,
+rerun this command to reinitialize your working directory. If you forget, other
+commands will detect it and remind you to do so if necessary.[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 37, in module "application":
+[31m│[0m [0m  37: module "application" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "network_module_outputs" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 37, in module "application":
+[31m│[0m [0m  37: module "application" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "alb_sg_app_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mUnsupported argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 39, in module "application":
+[31m│[0m [0m  39:   [4mregion_name[0m         = var.region_name[0m
+[31m│[0m [0m
+[31m│[0m [0mAn argument named "region_name" is not expected here.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mUnsupported argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 46, in module "application":
+[31m│[0m [0m  46:   [4masg_app_name[0m        = var.asg_app_name[0m
+[31m│[0m [0m
+[31m│[0m [0mAn argument named "asg_app_name" is not expected here.
+[31m╵[0m[0m
+
+[0m[1mInitializing the backend...[0m
+[0m[1mInitializing modules...[0m
+
+[0m[1mInitializing provider plugins...[0m
+- Reusing previous version of hashicorp/aws from the dependency lock file
+- Using previously-installed hashicorp/aws v5.50.0
+
+[0m[1m[32mTerraform has been successfully initialized![0m[32m[0m
+[0m[32m
+You may now begin working with Terraform. Try running "terraform plan" to see
+any changes that are required for your infrastructure. All Terraform commands
+should now work.
+
+If you ever set or change modules or backend configuration for Terraform,
+rerun this command to reinitialize your working directory. If you forget, other
+commands will detect it and remind you to do so if necessary.[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "igw_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "public_subnet1_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "public_subnet2_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_db_subnet2_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_subnet2_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_db_subnet1_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_db_subnet1_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "az_1" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "az_2" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "vpc_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "public_subnet1_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_subnet2_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "nat_gw_name" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_subnet1_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "vpc_cidr_block" is required, but no definition was found.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "public_subnet2_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_subnet1_cidr" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mMissing required argument[0m
+[31m│[0m [0m
+[31m│[0m [0m[0m  on main.tf line 11, in module "network":
+[31m│[0m [0m  11: module "network" [4m{[0m[0m
+[31m│[0m [0m
+[31m│[0m [0mThe argument "private_db_subnet2_name" is required, but no definition was
+[31m│[0m [0mfound.
+[31m╵[0m[0m
